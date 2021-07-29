@@ -8,6 +8,6 @@ nginxingress:
     - name: nginx.jencub.xyz
       tls: true
     - name: brb-nginx.greenpeace.org
-      tls: true
+      tls: false
 image:
   tag: develop
